@@ -1,0 +1,639 @@
+body{
+     margin:0px;
+}
+
+html{
+	font-size: 62.5%;
+}
+a{
+
+	text-decoration: none;
+	color:#000;
+
+}
+a:hover{
+	color:#37806B;
+
+}
+li{
+	list-style-type: none;
+}
+#heading{
+	background-color:#37806B;
+
+}
+.brand-name{
+	font-size: 3rem;
+	margin-left:17rem;
+	color:#ffff;
+	 background: -webkit-linear-gradient(60deg,#fff,#F545,#fff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.link{
+	margin-top:3rem;
+	font-size: 1.5rem;
+	position:absolute;
+	left:57%;
+	font-color:#fff;
+
+}
+.link-item{
+	margin-left:2rem;
+	color:#fff;
+}
+
+
+
+
+
+
+
+.link,.heading{
+	display:inline-flex;
+
+
+
+}
+
+#top-section{
+	display: inline-flex;
+}
+/*.heading-image{
+	position:relative;
+	left:50%;
+	top:30%;
+}
+
+.heading-image2{
+	position:relative;
+	left:10%;
+	top:40%;
+}
+*/
+
+.left{
+	/*width:50%;*/
+	padding:15rem 5rem 10rem;
+	/*display: inline-flex;*/
+
+}
+.one-section-left-h4{
+	font-size: 1.3rem;
+	/*width:65%;*/
+	margin-left:12rem;
+	margin-bottom: .5rem;
+}
+.one-section-left-h1{
+	font-size: 5rem;
+	/*width:65%;*/
+	margin-left:12rem;
+	margin-top:.5rem;
+	margin-bottom: 1.5rem;
+	 background: -webkit-linear-gradient(60deg,#124,#37806B);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    /*margin:0px;*/
+}
+.one-section-left-p{
+	font-size:1.8rem;
+	width:65%;
+	margin-top:.2rem;
+	margin-left:12rem;
+}
+.one-section-left-button{
+                  padding:1.2rem 4rem;
+                  margin-left:12rem;
+                  background-color:#37806B;
+                 text-decoration:none;
+                 color:#fff;
+                 border-radius: 2rem 0 2rem 0;
+                 border-color: #fff;
+}
+
+
+.heading-image{
+	width:70%;
+	padding:0px;
+	position: relative;
+	top:20%;
+	left:10%;
+	border-radius:30rem;
+
+}
+
+
+/*our services*/
+
+
+.what-2
+{
+	display: inline-flex;
+	margin-left:15rem;
+}
+.our-service-1 , .our-service-2 , .our-service-3{
+	padding:3rem;
+	width:22%;
+	margin:1.5rem;
+	
+}
+
+.our-service-1 , .our-service-3{
+	background-color: #CAA892;
+	border-radius: 3rem 0 3rem 0;
+}
+.services-h2{
+	font-size:2rem;
+	color:#fff;
+}
+.services-h2-2{
+	color:#000;
+	font-size:2rem;
+
+
+}
+.our-service-2{
+		border-radius: 3rem 0 3rem 0;
+		border-style: groove;
+}
+.what-1{
+	width:30%;
+	margin-left:17rem;
+
+}
+.what-h4{
+	font-size:1.5rem;
+	margin-bottom:.5rem;
+}
+.what-h1{
+	font-size: 3rem;
+	margin-top:.5rem;
+}
+
+/*twoSection*/
+
+
+
+
+#aboutus-section{
+	display: inline-flex;
+	/*margin:5rem 0;/*/
+	padding:15rem 10rem;
+	
+}
+
+
+
+
+.two-right{
+	margin-left:30%;
+}
+.two-right-h4{
+	font-size: 1.2rem;
+	/*width:60%;*/
+	/*margin-left:12rem;*/
+	margin-bottom:0rem;
+}
+.two-right-h1{
+	font-size: 5rem;
+	width:90%;
+	/*width:50%;*/
+	/*margin-left:12rem;
+	margin-top:.5rem;
+	margin-bottom: 1.5rem*/
+	  background: -webkit-linear-gradient(#37806B, #000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    margin:0px;
+}
+
+
+.two-right-p{
+	font-size: 1.2rem;
+	width:70%;
+	  margin-top:2rem;
+}
+.two-right-button{
+                  padding:1.2rem 4rem;
+                  /*margin-left:12rem;*/
+                 /*margin-top:0px;/*/
+                   margin-top:1.5rem;
+                  background-color:#37806B;
+                 text-decoration:none;
+                 color:#fff;
+                 border-radius: 2rem 0 2rem 0;
+                 border-color: #fff;
+}
+/*.second-image4{
+	width:80%;
+	border-radius:70rem;
+	padding:0px;
+    position:relative;
+    top:30%;
+    left:30%;
+}
+*/
+.second-image4{
+	width:120%;
+	padding:0px;
+	position: relative;
+	top:20%;
+	left:30%;
+	border-radius:30rem;
+
+}
+
+
+
+
+
+
+/*20year-section*/
+
+
+#twenty-year{
+	display:inline-flex;
+	padding:0rem 10rem;
+}
+
+.twenty-year-text{
+	font-size:3.5rem;
+	margin-top:0px;
+	width:70%;
+	margin-left:15rem;
+}
+.twenty-year-text-h4{
+	margin-bottom:.1rem;
+	font-size: 15rem;
+	margin-top:0px;
+	/*font-size: 72px;*/
+  background: -webkit-linear-gradient(#37806B, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.twenty-year-text-h1{
+	margin-top:0px;
+	background: -webkit-linear-gradient(#000,#37806B,#000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+.twenty-year-text-button{
+	             padding:1.2rem 4rem;
+                  /*margin-left:rem;*/
+                  background-color:#37806B;
+                 text-decoration:none;
+                 color:#fff;
+                 border-radius: 2rem 0 2rem 0;
+                 border-color: #fff;
+}
+
+.year-image{
+	width:70%;
+	border-radius: 70%;
+}
+
+
+
+
+
+
+/*noOfProject*/
+#number{
+	margin-top:10rem;
+}
+.no-of-project{
+	height:30rem;
+	background-color: #F8F8F8;
+	text-align: center;
+}
+.number-h1{
+	padding-top:5rem;
+	font-size: 2.5rem;
+	/*width:30%;*/
+	/*margin-left:55rem;*/
+	text-align: center;
+	background: -webkit-linear-gradient(60deg,#000,#37806B,#000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+
+
+
+
+
+/*reviewsection*/
+#review{
+	margin:10rem 0 7rem 0;
+
+}
+.review-h1{
+	text-align: center;
+	font-size:3rem;
+	margin-bottom: 5rem;
+	background: -webkit-linear-gradient(60deg,#000,#37806B,#000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.review-h3{
+	text-align: center;
+	font-size: 2rem;
+	margin-bottom: 1rem;
+	color:#fff;
+
+}
+.review-row{
+	text-align:center;   
+	margin-bottom: 3rem;
+}
+.review-col-1,.review-col-2,.review-col-3{
+            width:25%;
+            margin-left:5rem;
+            display: inline-block;
+            background-color:#CAA892;
+              border-radius: 3rem 0 3rem 0;
+              height: 13rem;
+}
+.review-p{
+      font-size:1rem;
+      padding: 0 2rem;
+
+
+}
+.review-col-2{
+	background-color: #ffff;
+	border-style: groove;
+}
+.review-middle{
+	color:#000;
+}
+
+
+/*blogSection*/
+
+#our-blog{
+	text-align:center;
+	
+	padding:5rem 15rem 8rem 15rem;
+	background-color: #F8F8F8;
+
+}
+.blog-h1{
+	font-size:3rem;
+	text-align:center;
+	margin-bottom: 10rem;
+	background: -webkit-linear-gradient(60deg,#000,#37806B,#000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.blog-section-row{
+
+     display:inline-flex;
+}
+.blog-h3{
+	font-size: 2.5rem;
+}
+.blog-p{
+	font-size: 1.5rem;
+	width:50%;
+	margin-left:25%;
+}
+.blog-image{
+	width:60%;
+	height:60%;	
+	border-radius:50%;
+	
+}
+.blog-button{
+	           padding:1.2rem 4rem;
+                  margin-top:2rem;
+                  background-color:#37806B;
+                 text-decoration:none;
+                 color:#fff;
+                 border-radius: 2rem 0 2rem 0;
+                 border-color: #fff;
+}
+
+/*contactOrEmailAddress*/
+.contact-me{
+	margin:10rem 0;
+	text-align:center;
+}
+.contact-h1{
+	font-size:3rem;
+	background: -webkit-linear-gradient(60deg,#000,#37806B,#000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.email{
+	width:47.7rem;
+	height:2.5rem;
+	padding-top:.03rem;
+	position:relative;
+	margin-top:5rem;
+	left:1rem;
+	display: inline-flex;
+	
+}
+.email-box{
+
+	/*width:47.7rem;*/
+	width:45rem;
+	height:3.5rem;
+	background-color:#EBEBEB;
+	border-style:none;
+	border-radius: 2rem 0 0 0;
+padding-left:3rem;
+}
+.subscribe{
+	width:13rem;
+	height:3.5rem;
+	border-radius: 0 0 2rem 0;
+	border-style:none;
+	background-color:#37806B;
+	color:#fff;
+	font-weight:800;
+}
+.contact-hr{
+	width:20%;
+	height:5%
+}
+.contact-p{
+	font-size: 1.3rem;
+
+}
+/*footer*/
+#footer{
+   margin:5rem 0 0 0;
+   background-color:#F8F8F8;
+   padding:1rem;
+}
+/*.brand-row{
+	display: inline-block;
+}*/
+.footer-col-1,.footer-col-two,.footer-col-3,.footer-col-4{
+	display:inline-flex;
+	margin-left:10rem;
+}
+
+
+
+.copyright{
+	text-align:center;
+	font-size: 1.2rem;
+}
+
+
+.footer-brand-para{
+	width:50%;
+	font-size:1.3rem;
+	padding-left:.5rem;
+	margin-left:5rem;
+}
+.footer-brand-h1{
+	font-size:3.5rem;
+	margin-bottom:.1rem;
+	margin-left:5rem;
+	background: -webkit-linear-gradient(60deg,#000,#37806B,#000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.brand-footer{
+	margin-right:0px;
+}
+.anchor-footer-2{
+	margin-top:2rem;
+}
+.list{
+	margin:3rem;
+}
+.anchor-footer-3,.anchor-footer-2,.company-list,.company-list-h3{
+	margin-bottom:.5rem;
+	font-size:1.3rem;
+	margin-top:.05rem;
+}
+.company-list-h3{
+	margin-bottom:0px;
+}
+
+
+
+
+
+
+
+@media(max-width: 480px)
+{
+	html{
+		font-size:23%;
+	}
+	.brand-name{
+		margin-left:5rem;
+	}
+	.one-section-left-button,.one-section-left-p,.one-section-left-h1,.one-section-left-h4{
+		margin-left:2.5rem;
+	}
+
+.one-section-left-button{
+	padding:1rem 2rem;
+}
+.what-2
+{
+	display: inline-flex;
+	margin-left:5rem;
+}
+.what-1{
+	width:50%;
+	margin-left:10rem;
+
+}
+
+
+/*20yearSection*/
+
+
+.review-p{
+      font-size:0.5rem;
+      padding: 0 2rem;
+
+
+}
+.review-col-1,.review-col-2,.review-col-3{
+            width:25%;
+            margin-left:5rem;
+            display: inline-block;
+            background-color:#CAA892;
+              border-radius: 3rem 0 3rem 0;
+              height: 20rem;
+}
+.review-col-2{
+     background-color: #fff;
+
+}
+
+/*.blog-image{
+	height:25rem;
+	width:25rem;
+	padding:2rem;
+}*/
+.blog-p{
+	font-size: 1.2rem;
+	width:50%;
+	margin-left:5rem;
+}
+.blog-h3{
+	font-size: 1.5rem;
+}
+.email-box{
+	font-size: .5rem;
+}.subscribe{
+	font-size: .3rem;
+	font-weight: 600;
+}
+.company-list,.company-list-h3{
+	margin-left:-2rem;
+}
+.footer-brand-h1{
+	font-size:3.5rem;
+	margin-bottom:.1rem;
+	margin-left:10rem;
+}
+.footer-brand-para{
+	width:90%;
+	margin-left: 10rem;
+	font-size: .8rem;
+}
+.blog-button,.twenty-year-text-button,.one-section-left-button{
+	width:19.5rem;
+	height:5rem;
+	font-size:.5rem;
+}
+.two-right-button{
+	width:20rem;
+	height:5rem;
+	font-size: 1.5rem;
+}
+.company-list,.anchor-footer-2,.anchor-footer-3{
+	font-size:10px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
